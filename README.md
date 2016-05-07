@@ -34,11 +34,9 @@ In less than 30 seconds you'll be set up with an awesome app landing page like t
 
 ![Step 1](/images/fork.png "Step 1")
 
-**That's it! Check out your new Awesome App Landing Page!**
+Your Awesome App Landing Page will often be viewable immediately at `http://username.github.io/awesome-app-landing-page` (if it's not, you can often force it to build by completing step 2)
 
-Your Awesome App Landing Page will often be viewable immediately at `http://yourgithubusername.github.io/awesome-app-landing-page` (if it's not, you can often force it to build by completing step 2)
-
-**IMPORTANT**: Don't forget to replace **yourgithubusername** with the GitHub user/organization name you forked the repo to.
+**IMPORTANT**: Don't forget to replace **username** with the GitHub **user name** or **organization name** you forked the repo to.
 
 ### Step 2) Edit `_config.yml` to customize
 
@@ -60,7 +58,7 @@ Optionally enter additional information:
 - iTunes Affiliate Token
 - Google Analytics Site ID
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at `http://yourgithubusername.github.io/repository-name` - if not, give it ten minutes as GitHub suggests and it'll appear soon
+Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at `http://username.github.io/repository-name` - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
 > There are 2 different ways that you can make changes to your page's files:
 
