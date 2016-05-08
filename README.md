@@ -1,6 +1,6 @@
 # Awesome App Landing Page
 
-**Get a free iOS app landing page in less than 30 seconds (seriously)**
+**Get an awesome landing page for your iOS app in less than 30 seconds (seriously)**
 
 It's easy to try out, you can just delete your forked repository if you don't like it
 
