@@ -79,7 +79,7 @@ Sign up here: http://www.apple.com/itunes/affiliates/
 
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
 2. Clone down your fork `git clone https://github.com/yourusername/repository-name.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve --baseurl=""`
+3. Serve the site and watch for markup/sass changes `jekyll serve`
 4. View your website at http://127.0.0.1:4000/
 5. Commit any changes and push everything to the `gh-pages` branch of your repository. GitHub Pages will then rebuild and serve your website.
 

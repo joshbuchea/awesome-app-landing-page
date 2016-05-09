@@ -12,7 +12,7 @@
                 class="app-icon"
                 style="min-width: 92px;"
                 height="auto"
-                {% if site.app.icon %} src="{{ site.baseurl }}/{{ site.app.icon }}"{% endif %}
+                {% if site.app.icon %} src="{{ site.app.icon }}"{% endif %}
               />
             {% endif %}
             <span class="app-name">{{ site.app.name }}</span>
@@ -48,7 +48,7 @@
         <div class="device {{ site.device }}">
           <img
             class="app-screenshot"
-            {% if site.app.screenshot %}src="{{ site.baseurl }}/{{ site.app.screenshot }}"{% endif %}
+            {% if site.app.screenshot %}src="{{ site.app.screenshot }}"{% endif %}
           />
         </div>
       </div>

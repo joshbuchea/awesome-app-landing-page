@@ -4,13 +4,6 @@
 
 # Be sure all REQUIRED fields are filled out!
 
-# IMPORTANT - If you changed the repository name:
-# This must match the repository name like this: "/repository-name"
-baseurl: "/awesome-app-landing-page" # REQUIRED
-
-# FYI Your app landing page will be available at:
-# http://yourusername.github.io/repository-name
-
 #
 # General App Info
 #
