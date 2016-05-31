@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: Awesome App # TEST APP - Enter your app name
   ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -76,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title2
+title: # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
