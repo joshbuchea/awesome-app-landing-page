@@ -91,6 +91,12 @@ Sign up here: http://www.apple.com/itunes/affiliates/
 - [Bootstrap](https://github.com/mdo/bootstrap)
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 
+## Awesome App Landing Pages
+
+Once you setup your **Awesome App Landing Page**, please open a pull request and add your site!
+
+- [Icon Babel](http://iconbabel.com/)
+
 ## Questions?
 
 [Open an Issue](https://github.com/joshbuchea/awesome-app-landing-page/issues/new) and let's chat!
@@ -101,9 +107,7 @@ Open an issue or a pull request to suggest changes or additions.
 
 ## Author
 
-**Josh Buchea**
-- <https://github.com/joshbuchea>
-- <https://twitter.com/joshbuchea>
+**[Josh Buchea](http://joshbuchea.com/)**
 
 ## License
 
