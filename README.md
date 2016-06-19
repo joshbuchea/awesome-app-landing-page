@@ -95,7 +95,8 @@ Sign up here: http://www.apple.com/itunes/affiliates/
 
 Once you setup your **Awesome App Landing Page**, please open a pull request and add your site!
 
-- [Icon Babel](http://iconbabel.com/)
+- [Icon Babel](http://iconbabel.com/ "Transcend language barriers using icons")
+- [FeedShare](http://feedshare.org/ "Find & Share Free Food")
 
 ## Questions?
 
