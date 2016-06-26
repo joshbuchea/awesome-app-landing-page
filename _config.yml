@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Mooone # REQUIRED - Enter your app name
-  ios_id: 1059159696 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: awesome app # REQUIRED - Enter your app name
+  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
