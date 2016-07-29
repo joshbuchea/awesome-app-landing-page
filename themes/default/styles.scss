@@ -7,9 +7,12 @@
 // BASE
 //
 
+html,
 body {
   min-height: 100%;
+}
 
+body {
   {% if site.background_color %}
   background-color: {{ site.background_color }};
   {% endif %}
