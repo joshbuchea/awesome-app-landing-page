@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: ttsubasa # REQUIRED - Enter your app name
   ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
