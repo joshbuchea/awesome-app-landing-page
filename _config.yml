@@ -35,13 +35,7 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:windblume
-  facebook:
   twitter:@windblume
-  pinterest:
-  instagram:
-  email:
-  youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 #
 # Enable/Disable Features & Page Elements
