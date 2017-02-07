@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: FieldBrowser for Ingress # REQUIRED - Enter your app name
+  ios_id: 987200032 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -34,9 +34,9 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github:windblume
   facebook:
-  twitter:
+  twitter:@windblume
   pinterest:
   instagram:
   email:
