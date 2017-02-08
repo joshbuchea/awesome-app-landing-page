@@ -26,7 +26,14 @@ app:
 # Marketing
 #
 marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_desc: FieldBrowser for Ingress check to Intel Map very quickly and easily.
+
+When you start the app, it will display the Intel Map of the area around the current position without operation. You can choose a measure of Intel map of startup from 5 levels in the setting button.In addition, it displays the periphery of the current position again in the middle button.
+Also , it was now able to bookmark the specified location !
+
+After you check the nearby portal, you can quickly start the Ingress from the bottom right button.
+
+Enjoy more Ingress using FieldBrowser!
 
 #
 # Social Links
@@ -34,7 +41,7 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:windblume
+  github:https://github.com/windblume
   twitter:@windblume
 
 #
