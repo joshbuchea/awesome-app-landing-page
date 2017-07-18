@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: HandyDrums # REQUIRED - Enter your app name
+  name: ハンディドラム # REQUIRED - Enter your app name
   ios_id: 1060365051 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: jp.smarteducation.penpepen.handydrum # Optional - Enter Android app id like: com.example.app
 
@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
+marketing_header: いつもポケットにドラムセットを # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
