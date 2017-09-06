@@ -22,7 +22,7 @@ In less than 30 seconds you'll be set up with an awesome app landing page like t
 ✓ Bootstrap  
 ✓ Font Awesome  
 
-✘ No installing dependancies  
+✘ No installing dependencies  
 ✘ No need to set up local development  
 ✘ No configuring plugins  
 ✘ No need to spend time on theming  
