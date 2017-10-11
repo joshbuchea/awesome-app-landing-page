@@ -97,6 +97,7 @@ Once you setup your **Awesome App Landing Page**, please open a pull request and
 
 - [Icon Babel](http://iconbabel.com/ "Transcend language barriers using icons")
 - [FeedShare](http://feedshare.org/ "Find & Share Free Food")
+- [My Playparks](https://myplayparks.com/ "Browse near by playgrounds")
 
 ## Questions?
 
