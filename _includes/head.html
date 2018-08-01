@@ -5,15 +5,20 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>{% if site.title %}{{ site.title }}{% else %}{{ site.app.name }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
-  
+
   <!-- Favicon -->
-  <link rel="shortcut icon" href="favicon.ico">
+  {% if site.app.favicon %}
+  <link rel="shortcut icon" href="{{ site.app.favicon }}">
+  {% endif %}
   <link rel="apple-touch-icon-precomposed" href="apple-icon-precomposed.png">
 
   {% if site.enable.smart_app_banner %}
   <!-- Smart App Banner -->
   <meta name="apple-itunes-app" content="app-id={{ site.app.ios_id }},affiliate-data={% include apple-affiliate.html %}">
   {% endif %}
+
+  <!-- Social media management -->
+  {% include socialcard.html %}
 
   <!-- Open All Links In A New Tab/Window -->
   <base target="_blank">

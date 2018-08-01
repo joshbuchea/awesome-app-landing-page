@@ -48,6 +48,10 @@ Optionally enter additional information:
 - Android App ID (e.g. com.example.appname)
 - App Icon (will auto-magically load if left blank)
 - App Screenshot (will auto-magically load if left blank)
+- App Preview (if you want this instead of a screenshot)
+- App and Creator Twitter handles
+- Image for sharing on Social Media
+- Your own Favicon
 - Marketing Header
 - Marketing Description
 - Social Links
