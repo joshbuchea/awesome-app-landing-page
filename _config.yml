@@ -8,11 +8,11 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: Four Eyes  # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/app-icon-512.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -33,7 +33,7 @@ app:
   # 640x1136px
 
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
+  creator_twitter: "@thewithra" # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
@@ -55,7 +55,7 @@ social-links:
   facebook:
   twitter:
   pinterest:
-  instagram:
+  instagram: "@foureyesapp"
   email:
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -75,13 +75,13 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-space-gray-vertical # REQUIRED
 
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#f3d706" # Optional
+background_image: #/images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
