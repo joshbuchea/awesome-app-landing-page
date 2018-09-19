@@ -12,6 +12,11 @@ body {
   min-height: 100%;
 }
 
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
 body {
   {% if site.background_color %}
   background-color: {{ site.background_color }};
