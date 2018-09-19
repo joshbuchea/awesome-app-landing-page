@@ -73,7 +73,7 @@ a:hover {
 //
 
 .marketing {
-  text-align: center;
+  text-align: left;
 }
 
 .app-meta {
@@ -83,6 +83,7 @@ a:hover {
 
 .app-icon {
   display: block;
+  float: right;
   margin: 0 auto 10px;
   border-radius: 15px;
   width: 92px;
