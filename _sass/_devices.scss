@@ -77,3 +77,18 @@
   left: 23px;
   width: 246px;
 }
+
+//
+// iPhone X
+//
+
+.device.iphone-x {
+  width: 288px;
+  height: 608px;
+  background-image: url(../../images/devices/iphone-x.png);
+}
+.device.iphone-x .app-screenshot {
+  top: 91px;
+  left: 25px;
+  width: 240px;
+}
