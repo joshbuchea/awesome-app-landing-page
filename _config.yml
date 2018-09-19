@@ -22,12 +22,12 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: images/app-screenshot.png # Leave blank to auto-magically populate
+  # screenshot: images/app-screenshot.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
 
-  #video: # uncomment if prefer to show a video preview in the screen instead of image
+  video: images/apppreview.mov # uncomment if prefer to show a video preview in the screen instead of image
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-preview.mp4
   # 640x1136px
