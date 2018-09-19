@@ -9,8 +9,7 @@
 }
 
 .device .app-screenshot {
-  position: absolute;
-  width: 240px;
+  position: initial;
   height: auto;
 }
 
@@ -83,14 +82,13 @@
 //
 
 .device.iphone-x {
-  width: 302px;
-  height: 608px;
+  width: 362px;
+  height: 720px;
 }
 
 .device.iphone-x:before {
   position: absolute;
   content: '';
-  background: rgba(0,0,0, 0.5);
   width: 100%;
   height: 100%;
   pointer-events: none;
@@ -98,5 +96,8 @@
 }
 
 .device.iphone-x .app-screenshot {
-  width: 100%;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 22px;
+    width: 314px;
 }
