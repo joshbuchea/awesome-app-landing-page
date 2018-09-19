@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Four Eyes # Optional - Enter your site title
+title: Four Eyes  # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
