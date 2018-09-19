@@ -9,7 +9,7 @@
 #
 app:
   name: Four Eyes  # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1433826729 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: images/app-icon-512.png # Leave blank to auto-magically populate
@@ -17,7 +17,7 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: images/app-favicon.png # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
+marketing_header: Four Eyes a Better Than One # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -75,17 +75,17 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-space-gray-vertical # REQUIRED
+device: iphone-x # REQUIRED
 
 #
 # Theme Settings
 #
-background_color: "#f3d706" # Optional
+background_color: white # Optional
 background_image: #/images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: white # Optional
-link_color: # Optional
-social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+text_color: black # Optional
+link_color: "#4B4BF6" # Optional
+social_link_color: "#4B4BF6" # Optional
+download_button_background_color: "#4B4BF6" # Optional
 download_button_text_color: white; # Optional
 
 #
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Four Eyes # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
