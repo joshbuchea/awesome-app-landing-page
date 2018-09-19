@@ -6,17 +6,18 @@
 
         <!-- Marketing -->
         <div class="marketing">
-          <div class="app-meta">
-            {% if site.enable.app_icon %}
-              <img
-                class="app-icon"
-                style="min-width: 92px;"
-                height="auto"
-                {% if site.app.icon %} src="{{ site.app.icon }}"{% endif %}
-              />
-            {% endif %}
-            <span class="app-name">{{ site.app.name }}</span>
+          <div class="app-meta" style="display: inline-block;">
+            <span class="app-name" style="font-size: 38px; font-weight: 500;">{{ site.app.name }}</span>
+            <p style="top: 0px;"><a href="https://withrow.io" style="position: absolute; font-size: 12px; font-weight: 400;">by Brandon Withrow</a></p>
           </div>
+         {% if site.enable.app_icon %}
+            <img
+              class="app-icon"
+              style="min-width: 92px;"
+              height="auto"
+              {% if site.app.icon %} src="{{ site.app.icon }}"{% endif %}
+            />
+          {% endif %}
 
           {% if site.marketing_header %}
           <h2 class="marketing-header">{{ site.marketing_header }}</h2>
