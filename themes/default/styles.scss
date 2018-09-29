@@ -12,6 +12,11 @@ body {
   min-height: 100%;
 }
 
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
 body {
   {% if site.background_color %}
   background-color: {{ site.background_color }};
@@ -73,16 +78,18 @@ a:hover {
 //
 
 .marketing {
-  text-align: center;
+  text-align: left;
+  margin: 0 auto 20px;
+  max-width: 450px;
 }
 
 .app-meta {
   margin-bottom: 20px;
-  font-size: 32px;
 }
 
 .app-icon {
   display: block;
+  float: right;
   margin: 0 auto 10px;
   border-radius: 15px;
   width: 92px;
@@ -92,7 +99,9 @@ a:hover {
   margin: 0 auto 20px;
   max-width: 450px;
   white-space: pre-wrap;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: left;
 }
 
 //
