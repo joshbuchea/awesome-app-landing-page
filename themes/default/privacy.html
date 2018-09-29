@@ -1,0 +1,69 @@
+<div class="main" role="main">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-6">
+
+        <!-- Marketing -->
+        <div class="marketing">
+          <div class="app-meta" style="display: inline-block;">
+            <span class="app-name" style="font-size: 38px; font-weight: 500;">{{ site.app.name }}</span>
+            <p style="top: 0px;"><a href="https://withrow.io" style="position: absolute; font-size: 12px; font-weight: 400;">by Brandon Withrow</a></p>
+          </div>
+         {% if site.enable.app_icon %}
+            <img
+              class="app-icon"
+              style="min-width: 92px;"
+              height="auto"
+              {% if site.app.icon %} src="{{ site.app.icon }}"{% endif %}
+            />
+          {% endif %}
+
+
+          <h2 class="marketing-header">Privacy Policy</h2>
+          <p class="marketing-desc">Thanks for using Four Eyes! Four Eyes was created by Brandon Withrow. Four Eyes does not collect or store any of your data, period. Since Four Eyes does not collect any of your information, it does not share any information with any 3rd parties. If you have any further questions, please email Brandon at brandon@withrow.io</p>
+
+
+        </div>
+      </div>
+
+
+      <div class="col-sm-6">
+
+        <!-- App Preview or Screenshot(s) -->
+        <div class="device {{ site.device }}">
+          {% if site.app.video %}
+               <div class="video-container">
+                <iframe src="{{ site.app.video }}" height="426.66" width="240" allowfullscreen="" frameborder="0">
+                </iframe>
+              </div>
+
+          {% else %}
+               <img
+                class="app-screenshot"
+                {% if site.app.screenshot %}src="{{ site.app.screenshot }}"{% endif %}
+               />
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="social">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        {% include social.html %}
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="footer">
+  <div class="container">
+    <!-- footer text here -->
+  </div>
+</div>
