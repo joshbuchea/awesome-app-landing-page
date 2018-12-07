@@ -69,14 +69,6 @@ Making a change to `_config.yml` (or any file in your repository) will force Git
 
 ![_config.yml](/images/config.png "_config.yml")
 
-## iTunes Affiliate Token
-
-If you'd like to make a little extra revenue from your paid iOS app, sign up for the iTunes Affiliate Program and enter your affiliate token in the config file.
-
-Sign up here: http://www.apple.com/itunes/affiliates/
-
-**Disclaimer**: If left empty, developer's affiliate token will be used. (this is a way for me, the author, to make a few pennies for my efforts without costing you a dime 😄)
-
 ## Local Development (Optional)
 
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
