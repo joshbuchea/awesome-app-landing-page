@@ -102,16 +102,6 @@ description: # Optional - Enter your site description
 google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
-# iTunes Affiliate Program
-#
-# Sign up here: http://www.apple.com/itunes/affiliates/
-#
-# Disclaimer:
-# This will default to using the author's affiliate token if left blank
-#
-itunes_affiliate_token: # Optional
-
-#
 # !! You don't need to change any of the configuration flags below !!
 #
 

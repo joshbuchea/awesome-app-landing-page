@@ -15,7 +15,6 @@ In less than 30 seconds you'll be set up with an awesome app landing page like t
 ✓ Fully Responsive Base Theme (**<a href="http://joshbuchea.github.io/awesome-app-landing-page">Demo</a>**)  
 ✓ Apple Devices for Screenshots  
 ✓ Apple Smart App Banner  
-✓ iTunes Affiliate Integration  
 ✓ Google Analytics Integration  
 ✓ Social Icons  
 ✓ Sass Support  
@@ -59,7 +58,6 @@ Optionally enter additional information:
 - Hide/Show Smart App Banner
 - Full Screen Background Image (optional)
 - Site Title & Description
-- iTunes Affiliate Token
 - Google Analytics Site ID
 
 Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at `http://username.github.io/repository-name` - if not, give it ten minutes as GitHub suggests and it'll appear soon
