@@ -10,21 +10,21 @@ In less than 30 seconds you'll be set up with an awesome app landing page like t
 
 ## Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create and customize your awesome app landing page  
-✓ Free & Automatic Hosting with GitHub Pages   
-✓ Fully Responsive Base Theme (**<a href="http://joshbuchea.github.io/awesome-app-landing-page">Demo</a>**)  
-✓ Apple Devices for Screenshots  
-✓ Apple Smart App Banner  
-✓ Google Analytics Integration  
-✓ Social Icons  
-✓ Sass Support  
-✓ Bootstrap  
-✓ Font Awesome  
+✓ Command-line free _fork-first workflow_, using GitHub.com to create and customize your awesome app landing page
+✓ Free & Automatic Hosting with GitHub Pages
+✓ Fully Responsive Base Theme (**<a href="http://joshbuchea.github.io/awesome-app-landing-page">Demo</a>**)
+✓ Apple Devices for Screenshots
+✓ Apple Smart App Banner
+✓ Google Analytics Integration
+✓ Social Icons
+✓ Sass Support
+✓ Bootstrap
+✓ Font Awesome
 
-✘ No installing dependencies  
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
+✘ No installing dependencies
+✘ No need to set up local development
+✘ No configuring plugins
+✘ No need to spend time on theming
 ✘ More time to code other things ... wait ✓!
 
 ## Quick Start
