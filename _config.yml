@@ -83,7 +83,7 @@ device: iphone-se-silver-vertical # REQUIRED
 background_color: "#989898" # Optional
 background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: # Optional
+link_color: silver # Optional
 social_link_color: white # Optional
 download_button_background_color: "#0191FF" # Optional
 download_button_text_color: white; # Optional
