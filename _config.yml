@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Best rolls for your Dice! # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_desc: Meet the future of mobile applications, razenas present you the application that let you throw some dices!
 
 #
 # Social Links
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: title new # Optional - Enter your site title
+description: nothing new # Optional - Enter your site description
 
 #
 # Google Analytics
