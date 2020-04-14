@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Combat Tools # REQUIRED - Enter your app name
+  ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.augustmoon.combattools # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Tools for your Dungeons and Dragons Campaign # Optional
+marketing_desc: This app comes with 5 tools: Hit Rate Calculator, Save Rate Calculator, Concentration Calculator, Dice Roller, And Stats Roller.
 
 #
 # Social Links
