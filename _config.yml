@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Tools for your Dungeons and Dragons Campaign # Optional
-marketing_desc: This app comes with 5 tools: Hit Rate Calculator, Save Rate Calculator, Concentration Calculator, Dice Roller, And Stats Roller.
+marketing_desc: This app comes with 5 tools: Hit Rate Calculator, Save Rate Calculator, Concentration Calculator, Dice Roller, And Stats Roller. # Optional.
 
 #
 # Social Links
