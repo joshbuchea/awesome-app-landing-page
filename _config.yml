@@ -4,7 +4,9 @@
 
 # Be sure all REQUIRED fields are filled out!
 
-#
+baseurl: "/combat-tools-lp"
+
+# 
 # General App Info
 #
 app:
