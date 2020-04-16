@@ -24,7 +24,7 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: # Leave blank to auto-magically populate
+  screenshot: images/screen.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
@@ -53,7 +53,7 @@ marketing_desc: Five tools for your ease of access. # Optional
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: https://github.com/scpineda
   facebook:
   twitter:
   pinterest:
@@ -67,7 +67,7 @@ social-links:
 #
 enable:
   app_icon: true
-  smart_app_banner: true
+  smart_app_banner: false
 
 #
 # Device
