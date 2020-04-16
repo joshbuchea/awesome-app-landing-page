@@ -11,7 +11,7 @@ baseurl: "/combat-tools-lp"
 #
 app:
   name: Combat Tools # REQUIRED - Enter your app name
-  # ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.augustmoon.CombatTools # Optional - Enter Android app id like: com.example.app
 
   icon: images/icon.png # Leave blank to auto-magically populate
@@ -82,7 +82,7 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-# background_color: "#989898" # Optional
+background_color: # Optional
 background_image: images/backgrounds/91-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
