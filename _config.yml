@@ -45,7 +45,7 @@ app:
 # Marketing
 #
 marketing_header: Tools for your Dungeons and Dragons Campaign # Optional
-marketing_desc: Five tools for your ease of access. # Optional
+marketing_desc: Five tools for your ease of access. Use the Hit Calculator to see your chances of hitting a creature. The Save Calculator will give you your chances of making a save. Concentration will calculate the Save DC for your Concentration check. Also includes a Dice Roller and Stats Roller for convenience! # Optional
 
 #
 # Social Links
