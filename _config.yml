@@ -11,10 +11,10 @@ baseurl: "/combat-tools-lp"
 #
 app:
   name: Combat Tools # REQUIRED - Enter your app name
-  ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: com.augustmoon.combattools # Optional - Enter Android app id like: com.example.app
+  # ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.augustmoon.CombatTools # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/icon.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -45,7 +45,7 @@ app:
 # Marketing
 #
 marketing_header: Tools for your Dungeons and Dragons Campaign # Optional
-marketing_desc: Five tools for your ease of access # Optional
+marketing_desc: Five tools for your ease of access. # Optional
 
 #
 # Social Links
@@ -82,8 +82,8 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+# background_color: "#989898" # Optional
+background_image: /images/backgrounds/91-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
