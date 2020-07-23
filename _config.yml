@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Şükela Reader # REQUIRED - Enter your app name
+  ios_id: 951356389 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
