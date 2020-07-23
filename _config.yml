@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: ŞükelaReader # REQUIRED - Enter your app name
+  name: Şükela Reader # REQUIRED - Enter your app name
   ios_id: 951356389 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
