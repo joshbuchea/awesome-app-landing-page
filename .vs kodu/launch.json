@@ -21,3 +21,17 @@
         }
     ]
 }
+fetch('https://example.com')
+.then(response => response.json())
+.then(data => console.log(data))
+.catch(error => console.error(error))
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://example.com", true);
+xhr.send();
+axios.get("https://example.com")
+  .then(response => {
+    console.log(response.data);
+  })
+  .catch(error => {
+    console.log(error);
+  });
